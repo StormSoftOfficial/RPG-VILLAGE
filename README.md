@@ -42,7 +42,7 @@ a uma pedra que profana a vida.
 <br>
 
 ### ➤ Nosso time:
-<div style=' margin-left: auto; margin-right: auto; ', align='center'>
+<div align='center'>
 <table>
  <tr>
   <th> <b> O Chefe </b> </th>
