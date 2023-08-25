@@ -42,7 +42,8 @@ a uma pedra que profana a vida.
 <br>
 
 ### ➤ Nosso time:
-<table style=' margin-left: auto; margin-right: auto;'>
+<div style=' margin-left: auto; margin-right: auto;'>
+<table>
  <tr>
   <th> <b> O Chefe </b> </th>
   <th> <b> O Designer </b> </th>
@@ -56,6 +57,6 @@ a uma pedra que profana a vida.
   <td> <img src='profile/images/team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
  </tr>
 </table>
+</div>
 
----
 
