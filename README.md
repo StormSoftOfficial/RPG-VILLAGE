@@ -41,4 +41,21 @@ a uma pedra que profana a vida.
 </p>
 <br>
 
+### ➤ Nosso time:
+<table style=' margin-left: auto; margin-right: auto;'>
+ <tr>
+  <th> <b> O Chefe </b> </th>
+  <th> <b> O Designer </b> </th>
+  <th> <b> O Map Designer </b> </th>
+  <th> <b> O Programador </b> </th>
+ </tr>
+ <tr>
+  <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Maxwel Gomes </p></td>
+  <td> <img src='profile/images/team_icons/o designer.jpeg' width='150px' height='150px'/> <br> <p align='center'> Gabriel Dext </p></td>
+  <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
+  <td> <img src='profile/images/team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
+ </tr>
+</table>
+
+---
 
