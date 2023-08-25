@@ -1,5 +1,6 @@
-# RPG-VILLAGE
-A project for the PPIII subject.
+### Fragmentado
+---
+## ➤ Sinopse do Game:
 
 Um jogo sobre três historias diferentes, ligadas por um local e ao sangue jorrado no mesmo.
     - Jhonny, um homem que busca resgatar sua esposa.
@@ -9,3 +10,9 @@ Todos eles se vêm em meio a uma trama pessoal, alguns se envolvendo em problema
 nesse caos e enquanto um luta por tudo que tem, outros lutam por tudo o que perderam. Tudo isso graças
 ao preconceito, ao desejo de ser deus, ao desejo de servir a deus e principalmente a uma pedra que 
 profana a vida.
+
+---
+
+## ➤ Ferramentas utilizadas
+<img src= https://img.shields.io/badge/Visual_Studio_Code--blue>
+
