@@ -2,7 +2,7 @@
 
 <p>Textos que devem (ou ao menos vão) ser seguidos para os diálogos e demais progressões durante o jogar da campanha</p>
 
-<a href='#Parte I Jhonny'>Parte I Jhonny</a>
+<li><a href='#Parte I Jhonny'>Parte I Jhonny</a></li>
 
 <a name='Parte I Jhonny'><h2>Parte I Jhonny</h2></a>
 
