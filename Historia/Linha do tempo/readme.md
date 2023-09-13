@@ -25,7 +25,7 @@ Após uma exploração mais profunda, ela encontrou Abel, o primeiro vigário e 
 Em uma batalha frenética, Morgana matou muitos membros do culto. Em um confronto climático, ela enfrentou Caim, acabando por matá-lo. Determinada a evitar mais tragédias, decidiu destruir a pedra, deixando uma mensagem assustadora para qualquer pessoa que descobrisse sua história: "Temei a pedra antiga".
 Sentada em meio a uma pilha de cadáveres, Morgana levantou-se e resolveu forjar uma nova vida, distante da alquimia e da terra amaldiçoada de Roanoke. Morgana viveu uma longa vida e deixou descendentes. No entanto, um dia, um de seus descendentes retornou a esse lugar amaldiçoado, determinado a encerrar o legado daqueles que, em sua busca por Deus, trouxeram tanto sofrimento.
 
-<a name = '1800 - Jhonny'><h2>1800 - Jhonny - O Presente</h2></a>
+<a name = '1800 - Jhonny'><h2>1800 - Johnny - O Presente</h2></a>
 
 <h3>Chegada</h3>
 
