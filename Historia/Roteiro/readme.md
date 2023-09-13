@@ -2,9 +2,10 @@
 
 <p>Textos que devem (ou ao menos vão) ser seguidos para os diálogos e demais progressões durante o jogar da campanha</p>
 
-<a href = '#Parte I Jhonny'><li> Parte I Jhonny</li></a>
+<a href = '#Parte I Jhonny'><li>Parte I Jhonny</li></a>
 
 <a name = 'Parte I Jhonny'><h2>Parte I Jhonny</h2></a>
+
 <h3>Cena Inicial 1</h3>
 
 No quarto da cena inicial, há uma cama e alguns acessórios de quarto. Jhonny começa a pensar em algo quando é interrompido por sua esposa com uma descoberta incrível, segundo ela.
