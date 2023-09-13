@@ -1,7 +1,7 @@
 <h1>Cronologia dos eventos da História</h1>
 
 <h2>Índice</h2>
-<a href = '1200 - Crowley'><li>1200 - Crowley - Campanha do Passado Longíquo</li></a>
+<a href = '#1200 - Crowley'><li>1200 - Crowley - Campanha do Passado Longíquo</li></a>
 <li>1500 - Morgana - Campanha do Passado Remoto</li>
 <li>1800 - Johnny - O Presente</li>
 
