@@ -1,5 +1,5 @@
-<h1>Ficha dos Persnagens</h1>
-<p>Ficha dos Personagens, contendo seus sprites, facer art e descrição acerca de como se comportam durante o jogo</p>
+<h1>Ficha dos Personagens</h1>
+<p>Ficha dos Personagens, contendo seus sprites, face arts e descrição acerca de como se comportam durante o jogo</p>
 
 <h2>Lista de Personagens</h2>
 <ul>
