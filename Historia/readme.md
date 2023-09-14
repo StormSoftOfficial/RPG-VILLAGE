@@ -1,5 +1,4 @@
-➤ História
-[]()
+<h1>➤ História</h1>
 <p>Diretório destinado a armazenar informações acerca da História dos jogo, tais quais:
   <ul>
     <li> <a href=https://github.com/StormSoftOfficial/RPG-VILLAGE/tree/main/Historia/Ficha%20dos%20inimigos>Ficha dos Inimigos</a></li>
