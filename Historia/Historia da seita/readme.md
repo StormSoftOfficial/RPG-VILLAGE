@@ -1,3 +1,5 @@
+<h1> História (lore) dos vilões do jogo </h1>
+
 <p>Em um período por volta de 1500, próximo à região de Virginia, um grupo de indivíduos, principalmente compostos por religiosos de di  versas crenças, compartilhava um sentimento comum: a revolta com o aspecto místico, especialmente em relação aos deuses. Muitos questionavam como um deus tão poderoso não intervinha para auxiliar seus servos. Questionavam-se: "Como um deus poderoso não nos daria poder e vida, ou sequer apareceria para nós?"</p>
 <br>
 <p>Nessa mesma região, uma guerra fervilhava entre três grandes crenças. Os seguidores de Arthur acreditavam na vinda de um salvador que criaria uma terra em um lugar remoto e que um dia retornaria para salvar a todos. Os adeptos de Historia reverenciavam uma mulher que vivera como santa e diziam que ela tinha o poder de ressuscitar os mortos antes de sua própria morte. Esses seguidores juravam que o espírito dela aniquilaria todo o mal e traria prosperidade aos humanos justos. Por fim, havia os Uno, uma crença cruel que adorava vários deuses, especialmente o deus das batalhas, e viam glória e beleza na morte e no derramamento de sangue.</p>
