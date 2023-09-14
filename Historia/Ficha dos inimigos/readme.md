@@ -1,4 +1,5 @@
-<h1>Diretório destinado a informações acerca dos inimigos de cada campanha</h1>
+<h1>Ficha dos Inimigos</h1>
+<p>Diretório destinado a informações acerca dos inimigos de cada campanha</p>
 
 <ul>
   <li><a href=>Campanha Jhonny</a></li>
