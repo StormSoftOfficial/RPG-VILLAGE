@@ -1,4 +1,5 @@
 <h1>Cronologia dos eventos da História</h1>
+<p> Arquivo que descreve e armazena as informações acerca do desenrolar dos eventos da História em detalhes.</p>
 
 <h2>Índice</h2>
 <li><a href = '#1200 - Crowley'>1200 - Crowley - Campanha do Passado Longíquo</a></li>
